@@ -1,4 +1,4 @@
-docker.io/bitnami/couchbase:7.2.1-debian-11-r84
+
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
@@ -13,3 +13,4 @@ myscale/myscaledb:1.6.4
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
+docker.io/bitnami/couchbase:7.2.1-debian-11-r84
