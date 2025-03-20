@@ -1,9 +1,9 @@
-langgenius/dify-api:1.0.1
-langgenius/dify-web:1.0.1
+langgenius/dify-api:1.1.0
+langgenius/dify-web:1.1.0
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.4-local
+langgenius/dify-plugin-daemon:0.0.5-local
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
@@ -25,3 +25,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 docker.io/bitnami/couchbase:7.2.1-debian-11-r84
+opengauss/opengauss:7.0.0-RC1
